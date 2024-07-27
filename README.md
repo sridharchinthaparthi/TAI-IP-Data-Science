@@ -28,7 +28,7 @@ Here are some of the plots you will create:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/exploring-visualizing-dataset.git
+    git clone https://github.com/sridharchinthaparthi/TAI-IP-Data-Science/exploring-visualizing-dataset.git
     cd exploring-visualizing-dataset
     ```
 
